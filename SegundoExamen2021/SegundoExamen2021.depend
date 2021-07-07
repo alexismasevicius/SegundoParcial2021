@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1625666854 source:c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+	"vacunas.h"
+
+1625656799 source:c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625656799 c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\linkedlist.h
+
+1625661107 source:c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"vacunas.h"
+
+1625657332 source:c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1625664740 c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\controller.h
+
+1625659534 c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\parser.h
+
+1625666186 source:c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"utn.h"
+	"vacunas.h"
+
+1625657332 c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\utn.h
+
+1625665674 source:c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\vacunas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"vacunas.h"
+	"vacunas.h"
+
+1625665620 c:\users\alex\desktop\laboratorio 2021\segundoexamen2021\vacunas.h
+
